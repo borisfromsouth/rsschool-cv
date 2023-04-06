@@ -6,7 +6,7 @@
 <br><br>
 >### Contact information ###
 
-|                     |                                                             |
+| Parametr            | Informatio                                                  |
 | ------------------- | ----------------------------------------------------------- |
 | Mobile phone number | +375(44)7255155                                             |
 | E-mail              | <sashaborisenko@tut.by>                                     |
@@ -51,7 +51,7 @@ int main() {
 <br><br>
 >### Education ###
 
-|               |                                                                   |
+| Parametr      | Information                                                       |
 | ------------- | ----------------------------------------------------------------- |
 | University    | "BSUIR"                                                           |
 | Period        | 2017 - 2021                                                       |
