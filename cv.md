@@ -7,13 +7,13 @@
 >### Contact information ###
 
 | | |
-|-|--------|
-|Mobile phone number|+375(44)7255155|
-|E-mail|<sashaborisenko@tut.by>|
-|RS-nickname|Alexander (@borisfromsouth)|
-|Telegram|@boris_from_south|
-|LinkedIn|<https://www.linkedin.com/in/alexander-borisenko-203991191>|
-|Github link|<https://github.com/borisfromsouth>|
+| - | -------- |
+| Mobile phone number | +375(44)7255155 |
+| E-mail | <sashaborisenko@tut.by> |
+| RS-nickname | Alexander (@borisfromsouth) |
+| Telegram | @boris_from_south |
+| LinkedIn | <https://www.linkedin.com/in/alexander-borisenko-203991191> |
+| Github link | <https://github.com/borisfromsouth> |
 <br>
 >### About myself ###
 
@@ -52,13 +52,13 @@ int main() {
 >### Education ###
 
 | | |
-|-|--------|
-|University|"BSUIR"|
-|Period|2017 - 2021|
-|Form of study|Free|
-|Average score|8,9|
-|Faculty|Computer-Added Design|
-|Specialty|Engineering and psychological support of information technologies|
+| - | -------- |
+| University | "BSUIR" |
+| Period | 2017 - 2021 |
+| Form of study | Free |
+| Average score | 8,9 |
+| Faculty | Computer-Added Design |
+| Specialty | Engineering and psychological support of information technologies |
 <br>
 >### Additional education ###
 
