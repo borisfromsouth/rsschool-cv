@@ -1,2 +1,4 @@
 # rsschool-cv
-CV task for RS-School
+https://borisfromsouth.github.io/rsschool-cv/cv
+
+https://borisfromsouth.github.io/rsschool-cv/
