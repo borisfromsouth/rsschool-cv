@@ -25,7 +25,7 @@
     in addition to my main job. For more than 2 years I have been working as a programmer 
     at the "Белэлектромонтажналадка" company, supporting and developing the "Уникон" desktop application.
 
-<br><br>
+<br>
 
 > ### Professional skills, languages and technologies ###
 
@@ -39,7 +39,8 @@
 - MySQL (MS server)<br>
 - Git (Github and Bitbucket)<br>
 - Agile (Scrum)
-<br><br>
+
+<br>
 
 >
 >### Code Example ###
@@ -78,6 +79,7 @@ int main() {
 - 3d-graphics courses "Polygon" 2018 - 2019<br>
 - English courses "Streamline" 2019 - 2020, 2022-2023
 <br><br>
+
 >
 >### Languages ###
 
