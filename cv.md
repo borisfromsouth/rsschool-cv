@@ -7,12 +7,16 @@
 >### Contact information ###
 
 
-| First Header  | Second Header |
+| Parametr  | Information |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Mobile phone number  | +375(44)7255155  |
+| E-mail  | <sashaborisenko@tut.by>  |
+| RS-nickname  | Alexander (@borisfromsouth)  |
+| Telegram  | @boris_from_south  |
+| LinkedIn  | <https://www.linkedin.com/in/alexander-borisenko-203991191>  |
+| Github link  | <https://github.com/borisfromsouth>  |
 
-| Parametr            | Informatio                                                  | 
+| Parametr            | Information                                                  | 
 | ------------------- | ----------------------------------------------------------- | 
 | Mobile phone number | +375(44)7255155                                             | 
 | E-mail              | <sashaborisenko@tut.by>                                     | 
@@ -67,14 +71,6 @@ int main() {
 | Faculty  | Computer-Added Design  |
 | Specialty  | Engineering and psychological support of information technologies  |
 
-| Parametr      | Information                                                       | 
-| ------------- | ----------------------------------------------------------------- | 
-| University    | "BSUIR"                                                           | 
-| Period        | 2017 - 2021                                                       | 
-| Form of study | Free                                                              | 
-| Average score | 8,9                                                               | 
-| Faculty       | Computer-Added Design                                             | 
-| Specialty     | Engineering and psychological support of information technologies |
 <br>
 >### Additional education ###
 
@@ -88,9 +84,3 @@ int main() {
 - English	B2 (School, University, Courses (Streamline))\
 
 Date 06.04.2023 8.26
-
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
