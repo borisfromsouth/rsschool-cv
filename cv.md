@@ -46,11 +46,30 @@
 >### Code Example ###
 
 ```
-#include <stdio.h>
-int main() {
-   printf("Hello, World!");
-   return 0;
-}
+public class DnaStrand 
+    {
+        public static string MakeComplement(string dna)
+        {
+            char[] arr = dna.ToCharArray();
+            for(int i=0; i < arr.Length; i++){
+              switch(arr[i]){
+                case 'A':
+                  arr[i] = 'T';
+                  break;
+                  case 'T':
+                  arr[i] = 'A';
+                  break;
+                  case 'C':
+                  arr[i] = 'G';
+                  break;
+                  case 'G':
+                  arr[i] = 'C';
+                  break;
+              }
+            }
+            return new string(arr);
+        }
+    }
 ```
 <br>
 
