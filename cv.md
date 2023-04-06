@@ -20,12 +20,14 @@
 >### About myself ###
 
     I am 23 years old, working and educateing in the field of programming. 
-    For the last six months I have been developing myself in the direction of the back-end (ASP .Net) and the front-end (JS and React). 
-    Every day I try to find time for personal projects and online tutorials in addition to my main job. 
-    For more than 2 years I have been working as a programmer at the "Белэлектромонтажналадка" company, supporting and developing the "Уникон" desktop application.
-<br>
+    For the last six months I have been developing myself in the direction of the back-end (ASP .Net) 
+    and the front-end (JS and React). Every day I try to find time for personal projects and online tutorials
+    in addition to my main job. For more than 2 years I have been working as a programmer 
+    at the "Белэлектромонтажналадка" company, supporting and developing the "Уникон" desktop application.
 
->### Professional skills, languages and technologies ###
+<br><br>
+
+> ### Professional skills, languages and technologies ###
 
 - C# (Framework and Core)<br>
 - C++<br>
@@ -38,6 +40,7 @@
 - Git (Github and Bitbucket)<br>
 - Agile (Scrum)
 <br><br>
+
 >
 >### Code Example ###
 
@@ -55,6 +58,7 @@ int main() {
 - 03.2020 - 10.2020 3D Artist (Freelance and project work(start-up)) Props and buildings modeling and texturing<br>
 - 10.2020 - now	ОАО “Белэлектромонтажналадка”	C# programmer	Bugfix, Refactor, New features
 <br><br>
+
 >
 >### Education ###
 
