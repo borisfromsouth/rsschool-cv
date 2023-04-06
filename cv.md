@@ -7,6 +7,11 @@
 >### Contact information ###
 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 | Parametr            | Informatio                                                  | 
 | ------------------- | ----------------------------------------------------------- | 
 | Mobile phone number | +375(44)7255155                                             | 
@@ -52,6 +57,15 @@ int main() {
 <br><br>
 >### Education ###
 
+
+| Parametr  | Information |
+| ------------- | ------------- |
+| University  | "BSUIR"  |
+| Period  | 2017 - 2021  |
+| Form of study  | Free  |
+| Average score  | 8,9  |
+| Faculty  | Computer-Added Design  |
+| Specialty  | Engineering and psychological support of information technologies  |
 
 | Parametr      | Information                                                       | 
 | ------------- | ----------------------------------------------------------------- | 
