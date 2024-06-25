@@ -1,8 +1,8 @@
 # Curriculum vitae
 
 ## Alexander Borisenko
-<image src="\import\photo.jpg" alt="Моя фотография">
-![Double helix](\import\photo.jpg" alt="Моя фотография)
+<img src="https://media.licdn.com/dms/image/D5603AQEe4oLRK66gXA/profile-displayphoto-shrink_800_800/0/1697088579169?e=1724889600&v=beta&t=HSnt5WclZjCbHV-iCwmupuFQp8mc-4dmZfplAlJV_Ig" width="250" height="250">
+<br><br>
 
 ### Contact information
 
