@@ -7,13 +7,14 @@
 ### Contact information
 
 | Parametr | Value |
-| ------------- | ------------- |
+| --- | --- |
 | Mobile phone number |  +375(44)7255155<br/> |
 | E-mail          |      <sashaborisenko@tut.by><br/> |
 | RS-nickname     |      Alexander (@borisfromsouth)<br/> |
 | Telegram        |      @boris_from_south<br/> |
 | LinkedIn        |      [Ссылка](https://www.linkedin.com/in/alexander-borisenko-203991191)<br/> |
 | Github link      |     [Ссылка](https://github.com/borisfromsouth)<br/> |
+
 <br/>
 
 ### About myself
@@ -90,7 +91,8 @@ private void _printButton_Click(object sender, EventArgs e)
 | Form of study |   Free<br/>
 | Average score |   8,9<br/>
 | Faculty       |   Computer-Added Design<br/> 
-| Specialty      |  Engineering and psychological support of information technologies<br>
+| Specialty      |  Engineering and psychological support of information technologies
+
 <br/>
 
 ### Additional education
@@ -106,4 +108,5 @@ private void _printButton_Click(object sender, EventArgs e)
 | Russian   |    Native
 | Belarusian |   Native
 | English   |  B2 (School, University, Courses (Streamline))
+
 <br/>
