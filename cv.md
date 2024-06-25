@@ -6,7 +6,7 @@
 
 ### Contact information
 
-|   |  |
+| Parametr | Value |
 | ------------- | ------------- |
 | Mobile phone number |  +375(44)7255155<br/> |
 | E-mail          |      <sashaborisenko@tut.by><br/> |
@@ -83,7 +83,7 @@ private void _printButton_Click(object sender, EventArgs e)
 
 ### Education
 
-|   |   |
+| Parametr | Value |
 | ------------- | ------------- |
 | University    |   BSUIR<br/>
 | Period        |   2017 - 2021<br/>
@@ -101,7 +101,7 @@ private void _printButton_Click(object sender, EventArgs e)
 
 ### Languages
 
-|   |  |
+|  Parametr | Value |
 | ------------- | ------------- |
 | Russian   |    Native
 | Belarusian |   Native
