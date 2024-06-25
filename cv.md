@@ -1,19 +1,18 @@
-Curriculum vitae
+# Curriculum vitae
 
-Alexander Borisenko
+## Alexander Borisenko
+
+### Contact information
+
+Mobile phone number   +375(44)7255155<br/>
+E-mail                <sashaborisenko@tut.by><br/>
+RS-nickname           Alexander (@borisfromsouth)<br/>
+Telegram              @boris_from_south<br/>
+LinkedIn              [Ссылка](https://www.linkedin.com/in/alexander-borisenko-203991191)<br/>
+Github link           [Ссылка](https://github.com/borisfromsouth)<br/>
 
 
-Contact information
-
-Mobile phone number   +375(44)7255155
-E-mail                sashaborisenko@tut.by
-RS-nickname           Alexander (@borisfromsouth)
-Telegram              @boris_from_south
-LinkedIn              https://www.linkedin.com/in/alexander-borisenko-203991191
-Github link           https://github.com/borisfromsouth
-
-
-About myself
+### About myself
 
 I am 24 years old, working and self-improving in the field of programming.
 For the last six months I have been developing myself in the direction of the back-end (ASP .Net)
@@ -22,7 +21,7 @@ in addition to my main job. For more than 2 years I have been working as a progr
 at the "Белэлектромонтажналадка" company, supporting and developing the "Уникон" desktop application.
 
 
-Professional skills, languages and technologies
+### Professional skills, languages and technologies
 
 - C# (Framework and Core)
 - C++
@@ -36,8 +35,9 @@ Professional skills, languages and technologies
 - Agile (Scrum)
 
 
-Code Example
+### Code Example
 
+```
 public class DnaStrand
     {
         public static string MakeComplement(string dna)
@@ -62,32 +62,28 @@ public class DnaStrand
             return new string(arr);
         }
     }
-
-
-Job experiense
+```
+### Job experiense
 
 - 03.2020 - 10.2020   3D Artist (Freelance and Project work(start-up))    Props and buildings modeling and texturing
-- 10.2020 - now	      ОАО“Белэлектромонтажналадка”	C# programmer	      Bugfix, Refactor, New features
+- 10.2020 - now       ОАО“Белэлектромонтажналадка” C# programmer       Bugfix, Refactor, New features
 
+### Education
 
-Education
+University      BSUIR<br/>
+Period          2017 - 2021<br/>
+Form of study   Free<br/>
+Average score   8,9<br/>
+Faculty         Computer-Added Design<br/> 
+Specialty       Engineering and psychological support of information technologies<br>
 
-University      BSUIR
-Period          2017 - 2021  
-Form of study   Free
-Average score   8,9
-Faculty         Computer-Added Design  
-Specialty       Engineering and psychological support of information technologies  
-
-
-Additional education
+### Additional education
 
 - 3d-graphics courses   "Polygon" 2018 - 2019
 - English courses       "Streamline" 2019 - 2020, 2022-2023
 
-
-Languages
+### Languages
 
 - Russian      Native
 - Belarusian   Native
-- English	   B2 (School, University, Courses (Streamline))
+- English    B2 (School, University, Courses (Streamline))
