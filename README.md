@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://borisfromsouth.github.io/rsschool-cv-html
+https://borisfromsouth.github.io/rsschool-cv/
